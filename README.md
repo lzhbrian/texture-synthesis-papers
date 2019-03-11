@@ -1,6 +1,6 @@
-# Texture Synthesis Papers with code
+# Texture synthesis papers
 
-A constantly updating collection of texture synthesis papers with code.
+A constantly updating collection of texture synthesis papers with code, organized by [Tzu-Heng Lin](https://lzhbrian.me), PKU.
 
 Papers are ordered in arXiv first version submitting time (if applicable).
 
@@ -16,8 +16,6 @@ Feel free to send a PR or an issue.
 |      | A survey of exemplar-based texture synthesis methods         | CVIU 2018   | [j.cviu.2018.04.001](https://doi.org/10.1016/j.cviu.2018.04.001) |                                                              |
 |      | A survey of exemplar-based texture synthesis                 | arXiv       | [1707.07184](https://arxiv.org/abs/1707.07184)               |                                                              |
 |      | From BoW to CNN: Two Decades of Texture Representation for Texture Classification | IJCV 2019   | [1801.10324](https://arxiv.org/abs/1801.10324)               |                                                              |
-|      |                                                              |             |                                                              |                                                              |
-|      |                                                              |             |                                                              |                                                              |
 
 
 
@@ -32,7 +30,7 @@ Feel free to send a PR or an issue.
 |      |               | Non-Stationary Texture Synthesis by Adversarial Expansion    | SIGGRAPH 2018 | [1805.04487](https://arxiv.org/abs/1805.04487) | [jessemelpolio/non-stationary_texture_syn](https://github.com/jessemelpolio/non-stationary_texture_syn) |
 |      | FAMOS         | Copy the Old or Paint Anew? An Adversarial Framework for (non-) Parametric Image Stylization | NIPSW 2018    | [1811.09236](https://arxiv.org/abs/1811.09236) | [zalandoresearch/famos](https://github.com/zalandoresearch/famos) |
 |      | InGAN         | Internal Distribution Matching for Natural Image Retargeting | arXiv         | [1812.00231](https://arxiv.org/abs/1812.00231) |                                                              |
-|      | Texture Mixer | Texture Mixer: A Network for Controllable Synthesis and Interpolation of Texture | arXiv         | [1901.03447](https://arxiv.org/abs/1901.03447) |                                                              |
+|      | Texture Mixer | Texture Mixer: A Network for Controllable Synthesis and Interpolation of Texture | CVPR 2019     | [1901.03447](https://arxiv.org/abs/1901.03447) |                                                              |
 
 
 
